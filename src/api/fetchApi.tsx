@@ -1,6 +1,6 @@
 import { images } from "../assets/imageExport";
 
-const { one, two, three, four, five, six } = images;
+const { one, two, three, four, five } = images;
 
 const catalogData = [
   {
